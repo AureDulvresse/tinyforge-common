@@ -2,7 +2,7 @@
     "name": "tinyforge/common",
     "description": "Common tools for TinyForge framework",
     "type": "library",
-    "licence": "MIT",
+    "licence": "GPL-3.0",
     "require": {
         "vlucas/phpdotenv": "^5.5"
     },
