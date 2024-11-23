@@ -10,7 +10,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Tinyforge\\Common\\": "src/"
+            "Tinyforge\\Common\\": "src/",
+            "Tests\\": "tests/"
         }
     },
     "authors": [
